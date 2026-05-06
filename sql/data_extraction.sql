@@ -1,10 +1,3 @@
--- ============================================================
--- Project : Consumer Engagement & Trend Analysis
--- App     : Mero Mahinawari (Nepali Period Tracking App)
--- Author  : [Your Name]
--- Purpose : Extract engagement KPIs from activity_logs table
--- ============================================================
-
 
 -- -------------------------------------------------------
 -- QUERY 1: Monthly Active Users (MAU)
